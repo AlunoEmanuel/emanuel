@@ -16,7 +16,7 @@
         <img src="img/avatar-perfil.png" alt="avatar do Emanuel" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Emanuel_</p>
-        <h1>Eu ensino Programação</h1>
+        <h1>Eu estou aprendendo Programação</h1>
         <p>Sou Aluno do Conti e curso também o curso do alura, por meio desse projeto eu me especializei na área e espero futuramente entrar nesse ramo!</p>
         <p>Minhas habilidades</p>
         <div>
