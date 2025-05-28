@@ -13,7 +13,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="avatar do Emanuel" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Emanuel_</p>
         <h1>Eu ensino Programação</h1>
