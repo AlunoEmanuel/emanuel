@@ -33,7 +33,7 @@
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
-                    <div class="card-body">https://www.bing.com/images/search?
+                    <div class="card-body">
                         <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
                         <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros
                             favoritos, incluindo informações sobre os autores, datas de publicação e links para compra
