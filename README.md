@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="style.css">hs
     <title>Meu portfólio</title>
-</head>![image](https://github.com/user-attachments/assets/779bace1-aaf0-470f-bd5d-bb0bc91abec7)
+</head>![image]
+(https://github.com/user-attachments/assets/779bace1-aaf0-470f-bd5d-bb0bc91abec7)
 
 
 <body>
