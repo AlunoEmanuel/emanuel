@@ -18,7 +18,8 @@
         <h1>Eu estou aprendendo Programação</h1>
         <p>Sou Aluno do Conti e curso também o curso do alura, por meio desse projeto eu me especializei na área e espero futuramente entrar nesse ramo!</p>
         <p>Minhas habilidades</p>
-        <div>[image](https://github.com/user-attachments/assets/cb1fbaf3-53f2-418c-bd39-f47c8dfdaad6)
+        <div>[imagem]
+            (https://github.com/user-attachments/assets/cb1fbaf3-53f2-418c-bd39-f47c8dfdaad6)
 
             <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
