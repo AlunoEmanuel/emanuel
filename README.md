@@ -10,9 +10,6 @@
     <link rel="stylesheet" href="style.css">hs
     <title>Meu portfólio</title>
 </head>![image]
-(https://github.com/user-attachments/assets/779bace1-aaf0-470f-bd5d-bb0bc91abec7)
-
-
 <body>
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar do Emanuel" class="rounded-circle" width="150" height="150"
@@ -21,7 +18,8 @@
         <h1>Eu estou aprendendo Programação</h1>
         <p>Sou Aluno do Conti e curso também o curso do alura, por meio desse projeto eu me especializei na área e espero futuramente entrar nesse ramo!</p>
         <p>Minhas habilidades</p>
-        <div>
+        <div>[image]![image](https://github.com/user-attachments/assets/cb1fbaf3-53f2-418c-bd39-f47c8dfdaad6)
+
             <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
             <p class="badge bg-secondary">JavaScript</p>
@@ -35,10 +33,6 @@
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-1.png" class="card-img-top" alt="![image]
-                        
-    
-(https://github.com/user-attachments/assets/1b37d5d9-676d-40aa-9e4f-02c2a4858727)
-">
                     <div class="card-body">
                         <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
                         <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros
