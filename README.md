@@ -34,7 +34,10 @@
             <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="![image](https://github.com/user-attachments/assets/1b37d5d9-676d-40aa-9e4f-02c2a4858727)
+                    <img src="img/projeto-1.png" class="card-img-top" alt="![image]
+                        
+    
+(https://github.com/user-attachments/assets/1b37d5d9-676d-40aa-9e4f-02c2a4858727)
 ">
                     <div class="card-body">
                         <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
