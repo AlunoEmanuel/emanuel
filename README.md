@@ -48,7 +48,8 @@
             <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <img src="img/projeto-2.png" class="card-img-top" alt="![image](https://github.com/user-attachments/assets/e33a5b8e-d56e-429e-8464-f82e10171016)
+">
                     <div class="card-body">
                         <h5 class="card-title">Decidindo o Futuro: Uma Jornada Interativa sobre a Inteligência
                             Artificial</h5>
